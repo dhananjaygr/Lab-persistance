@@ -30,7 +30,7 @@ The deployment progress will no longer restart from 0% after a page refresh. It 
 
    ![](/img/05.png)
 
-7. As the lab is being deployed, you will see the duration and the percentage of the lab’s progress. Now, try clicking the Refresh button at the top left of the page and check the deployment status. It will continue from where it left off prior to the refresh.
+7. As the lab is being deployed, you will see the duration and the percentage of the lab’s progress. Now, try clicking the Refresh button at the top left of the page and check the deployment status. It will resume from where it was before the refresh. 
 
    ![](/img/06.png)
 
